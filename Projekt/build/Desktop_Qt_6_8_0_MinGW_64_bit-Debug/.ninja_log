@@ -1,0 +1,9 @@
+# ninja log v6
+17	1254	7512417388089848	Projekt_autogen/timestamp	d3acbd43e0c5538
+17	1254	7512417388089848	Projekt_autogen/mocs_compilation.cpp	d3acbd43e0c5538
+17	1254	7512417388089848	C:/Users/kapim/Desktop/procpp/C-Project/Projekt/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Projekt_autogen/timestamp	d3acbd43e0c5538
+17	1254	7512417388089848	C:/Users/kapim/Desktop/procpp/C-Project/Projekt/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Projekt_autogen/mocs_compilation.cpp	d3acbd43e0c5538
+1266	6506	7512417389371009	CMakeFiles/Projekt.dir/Projekt_autogen/mocs_compilation.cpp.obj	2c660f60dd7bb2fc
+1270	6675	7512417389410880	CMakeFiles/Projekt.dir/main.cpp.obj	a568ade05957a313
+1274	6737	7512417389450856	CMakeFiles/Projekt.dir/mainwindow.cpp.obj	675a74652c241573
+6738	7062	7512417444084720	Projekt.exe	58ec6949c0e5a548

@@ -1,1 +1,0 @@
-# Sysyem Medyczny
